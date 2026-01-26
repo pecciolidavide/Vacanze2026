@@ -170,6 +170,9 @@ a {
     box-shadow: none !important;
     text-decoration: none;
 }
+/* Rende le parentesi della nota discrete */
+.footref::before { content: "["; opacity: 0.4; }
+.footref::after { content: "]"; opacity: 0.4; }
 
 /* Il numero della nota [1], [2] */
 .footnum {
@@ -184,3 +187,4 @@ a {
     display: inline-block;
     line-height: 1.4;
 }
+
