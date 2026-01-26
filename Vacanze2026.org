@@ -2,3 +2,12 @@
 #+EXPORT_FILE_NAME: index
 
 * Idee Vacanze
+
+|                       | LINK   | Periodo      | Costo casa | Costo macchina | Costo a testa |
+|-----------------------+--------+--------------+------------+----------------+---------------|
+| Opzione 1 (9 persone) | [[https://www.airbnb.it/rooms/5089509?check_in=2026-08-11&check_out=2026-08-19&guests=9&adults=9&s=67&unique_share_id=8bfa4391-c5d3-4c5f-bd01-de1b736155aa][AirBNB]] | 11-19 agosto | 1763€      | 70€            | 211€          |
+| Opzione 1 (8 persone) | [[https://www.airbnb.it/rooms/5089509?check_in=2026-08-11&check_out=2026-08-19&guests=9&adults=9&s=67&unique_share_id=8bfa4391-c5d3-4c5f-bd01-de1b736155aa][AirBNB]] | 11-19 agosto | 1714€      | 70€            | 232€          |
+|-----------------------+--------+--------------+------------+----------------+---------------|
+
+Descrizioni:
+- *Opzione 1*: Casa con piscina privata, ad _Avignone_, in una zona adatta a passeggiate in montagna.
