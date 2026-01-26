@@ -6,7 +6,7 @@
 |                       | LINK   | Periodo      | Costo casa | Costo macchina | Costo a testa |
 |-----------------------+--------+--------------+------------+----------------+---------------|
 | Opzione 1 (9 persone) | [[https://www.airbnb.it/rooms/5089509?check_in=2026-08-11&check_out=2026-08-19&guests=9&adults=9&s=67&unique_share_id=8bfa4391-c5d3-4c5f-bd01-de1b736155aa][AirBNB]] | 11-19 agosto | 1763€      | 70€            | 211€          |
-| Opzione 1 (8 persone) | [[https://www.airbnb.it/rooms/5089509?check_in=2026-08-11&check_out=2026-08-19&guests=9&adults=9&s=67&unique_share_id=8bfa4391-c5d3-4c5f-bd01-de1b736155aa][AirBNB]] | 11-19 agosto | 1714€      | 70€            | 232€          |
+| Opzione 1 (8 persone) | [[https://www.airbnb.it/rooms/5089509?check_in=2026-08-11&check_out=2026-08-19&guests=8&adults=8&s=67&unique_share_id=a24cc851-1c0d-4ac7-87bc-39660f9c9f66][AirBNB]] | 11-19 agosto | 1714€      | 70€            | 232€          |
 |-----------------------+--------+--------------+------------+----------------+---------------|
 
 Descrizioni:
