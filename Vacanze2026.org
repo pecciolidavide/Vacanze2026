@@ -12,4 +12,8 @@
 |-----------------------+--------+--------------+------------+----------------+---------------|
 
 Descrizioni:
-- *Opzione 1*: Casa con piscina privata, ad _Avignone_, in una zona adatta a passeggiate in montagna.
+- *Opzione 1*[fn:1]: Casa con piscina privata, ad _Avignone_, in una zona adatta a passeggiate in montagna.
+
+* Footnotes
+
+[fn:1] Questa casa è decisamente scomoda per Roberto, me ne sono reso conto dopo averla inserita
