@@ -1,0 +1,134 @@
+/* style.css */
+
+/* Impostazioni Generali */
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 20px;
+}
+
+#content {
+    max-width: 900px;
+    margin: auto;
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* Titoli */
+.title {
+    color: #2c3e50;
+    font-size: 2.5em;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #2980b9;
+    margin-top: 40px;
+}
+
+/* Tabella Vacanze */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 8px 8px 0 0;
+    overflow: hidden;
+}
+
+table thead tr {
+    background-color: #3498db;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+
+table th, table td {
+    padding: 12px 15px;
+}
+
+table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+table tbody tr:last-of-type {
+    border-bottom: 2px solid #3498db;
+}
+
+table tbody tr:hover {
+    background-color: #e1f0fa;
+    transition: 0.3s;
+}
+
+/* Link stile bottone */
+a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #21618c;
+}
+
+table a {
+    background: #3498db;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 0.8em;
+}
+
+table a:hover {
+    background: #21618c;
+    text-decoration: none;
+}
+
+/* Liste e Descrizioni */
+.org-ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.org-ul li {
+    background: #fdfdfd;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-left: 5px solid #3498db;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+/* Note a piè di pagina */
+#footnotes {
+    font-size: 0.85em;
+    color: #7f8c8d;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+.footdef {
+    margin-bottom: 8px;
+}
+
+/* Postambolo */
+#postamble {
+    text-align: center;
+    font-size: 0.8em;
+    color: #95a5a6;
+    margin-top: 40px;
+}

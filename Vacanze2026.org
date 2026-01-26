@@ -2,27 +2,28 @@
 #+EXPORT_FILE_NAME: index
 #+OPTIONS: toc:nil num:nil
 #+OPTIONS: html5-fancy:t
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 
 * Idee Vacanze
 
-
-|                        | LINK   | Periodo      | Costo casa | Costo macchina | Costo a testa |
+|                        |  LINK  |   Periodo    | Costo casa | Costo macchina | Costo a testa |
+|                        |  <c>   |     <c>      |    <c>     |      <c>       |      <c>      |
 |------------------------+--------+--------------+------------+----------------+---------------|
-| Opzione 1? (9 persone) | [[https://www.airbnb.it/rooms/5089509?check_in=2026-08-11&check_out=2026-08-19&guests=9&adults=9&s=67&unique_share_id=8bfa4391-c5d3-4c5f-bd01-de1b736155aa][AirBNB]] | 11-19 agosto | 1763€      | 70€            | 227€          |
-| Opzione 1? (8 persone) | [[https://www.airbnb.it/rooms/5089509?check_in=2026-08-11&check_out=2026-08-19&guests=8&adults=8&s=67&unique_share_id=a24cc851-1c0d-4ac7-87bc-39660f9c9f66][AirBNB]] | 11-19 agosto | 1714€      | 70€            | 249€          |
+| Opzione 1? (9 persone) | [[https://www.airbnb.it/rooms/5089509?check_in=2026-08-11&check_out=2026-08-19&guests=9&adults=9&s=67&unique_share_id=8bfa4391-c5d3-4c5f-bd01-de1b736155aa][AirBNB]] | 11-19 agosto |   1763€    |      70€       |     227€      |
+| Opzione 1? (8 persone) | [[https://www.airbnb.it/rooms/5089509?check_in=2026-08-11&check_out=2026-08-19&guests=8&adults=8&s=67&unique_share_id=a24cc851-1c0d-4ac7-87bc-39660f9c9f66][AirBNB]] | 11-19 agosto |   1714€    |      70€       |     249€      |
 |------------------------+--------+--------------+------------+----------------+---------------|
-| Opzione 2 (9 persone)  | [[https://www.airbnb.it/rooms/5219978?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=9&s=67&unique_share_id=addc01cb-3cd6-438a-8a54-e673048362a7][AirBNB]] | 11-20 agosto | 1878€      | 16€            | 216€          |
-| Opzione 2 (8 persone)  | [[https://www.airbnb.it/rooms/5219978?check_in=2026-08-11&check_out=2026-08-20&guests=8&adults=8&s=67&unique_share_id=e730d438-fbf5-47f1-9655-503fa22dbab7][AirBNB]] | 11-20 agosto | 1667€      | 16€            | 217€          |
+| Opzione 2 (9 persone)  | [[https://www.airbnb.it/rooms/5219978?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=9&s=67&unique_share_id=addc01cb-3cd6-438a-8a54-e673048362a7][AirBNB]] | 11-20 agosto |   1878€    |      16€       |     216€      |
+| Opzione 2 (8 persone)  | [[https://www.airbnb.it/rooms/5219978?check_in=2026-08-11&check_out=2026-08-20&guests=8&adults=8&s=67&unique_share_id=e730d438-fbf5-47f1-9655-503fa22dbab7][AirBNB]] | 11-20 agosto |   1667€    |      16€       |     217€      |
 |------------------------+--------+--------------+------------+----------------+---------------|
-| Opzione 3? (9 persone) | [[https://www.airbnb.it/rooms/13583545?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=9&s=67&unique_share_id=abc398eb-e523-4583-ae38-e6405e55856f][AirBNB]] | 11-20 agsoto | 1812€      | 100€           | 245€          |
-| Opzione 3? (8 persone) | [[https://www.airbnb.it/rooms/13583545?check_in=2026-08-11&check_out=2026-08-20&guests=8&adults=8&s=67&unique_share_id=91f87c90-cb79-43f8-a35f-03c695117bda][AirBNB]] | 11-20 agosto | 1800€      | 100€           | 275€          |
+| Opzione 3? (9 persone) | [[https://www.airbnb.it/rooms/13583545?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=9&s=67&unique_share_id=abc398eb-e523-4583-ae38-e6405e55856f][AirBNB]] | 11-20 agsoto |   1812€    |      100€      |     245€      |
+| Opzione 3? (8 persone) | [[https://www.airbnb.it/rooms/13583545?check_in=2026-08-11&check_out=2026-08-20&guests=8&adults=8&s=67&unique_share_id=91f87c90-cb79-43f8-a35f-03c695117bda][AirBNB]] | 11-20 agosto |   1800€    |      100€      |     275€      |
 |------------------------+--------+--------------+------------+----------------+---------------|
-| Opzione 4 (9 persone)  | [[https://www.airbnb.it/rooms/27943751?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=9&s=67&unique_share_id=6d421b82-78d9-400a-8f77-167fcbb15fc9][AirBNB]] | 11-20 agosto | 1231€      | 35€            | 152€          |
-| Opzione 4 (8 persone)  | [[https://www.airbnb.it/rooms/27943751?check_in=2026-08-11&check_out=2026-08-20&guests=8&adults=8&s=67&unique_share_id=68e86efd-8c80-46dd-be71-bbd8cb0198ea][AirBNB]] | 11-20 agosto | 1218€      | 35€            | 170€          |
+| Opzione 4 (9 persone)  | [[https://www.airbnb.it/rooms/27943751?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=9&s=67&unique_share_id=6d421b82-78d9-400a-8f77-167fcbb15fc9][AirBNB]] | 11-20 agosto |   1231€    |      35€       |     152€      |
+| Opzione 4 (8 persone)  | [[https://www.airbnb.it/rooms/27943751?check_in=2026-08-11&check_out=2026-08-20&guests=8&adults=8&s=67&unique_share_id=68e86efd-8c80-46dd-be71-bbd8cb0198ea][AirBNB]] | 11-20 agosto |   1218€    |      35€       |     170€      |
 |------------------------+--------+--------------+------------+----------------+---------------|
-| Opzione 5 (8 persone)  | [[https://www.airbnb.it/rooms/868530?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=8&s=67&unique_share_id=1e0e42ca-660e-446d-a099-1815607ab8db][AirBNB]] | 11-20 agosto | 1290€      | 35€            | 180€          |
+| Opzione 5 (8 persone)  | [[https://www.airbnb.it/rooms/868530?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=8&s=67&unique_share_id=1e0e42ca-660e-446d-a099-1815607ab8db][AirBNB]] | 11-20 agosto |   1290€    |      35€       |     180€      |
 |------------------------+--------+--------------+------------+----------------+---------------|
-| Opzione 6 (8 persone)  | [[https://www.airbnb.it/rooms/45323621?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=8&s=67&unique_share_id=b5aa690c-b5fd-445d-8a65-2333d1675acd][AirBNB]] | 11-20 agosto | 1930€      | 35€            | 260€          |
+| Opzione 6 (8 persone)  | [[https://www.airbnb.it/rooms/45323621?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=8&s=67&unique_share_id=b5aa690c-b5fd-445d-8a65-2333d1675acd][AirBNB]] | 11-20 agosto |   1930€    |      35€       |     260€      |
 |------------------------+--------+--------------+------------+----------------+---------------|
 
 Descrizioni:
