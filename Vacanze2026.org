@@ -2,6 +2,7 @@
 #+EXPORT_FILE_NAME: index
 #+OPTIONS: toc:nil num:nil
 #+OPTIONS: html5-fancy:t
+#+OPTIONS: html-postamble:nil
 # #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style_mobile.css" />
 
