@@ -1,5 +1,7 @@
 #+title: Vacanze 2026
 #+EXPORT_FILE_NAME: index
+#+OPTIONS: toc:nil num:nil
+#+OPTIONS: html5-fancy:t
 
 * Idee Vacanze
 
