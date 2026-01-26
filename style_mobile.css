@@ -1,0 +1,152 @@
+/* style.css */
+
+/* 1. Setup Generale e Colori */
+:root {
+    --bg-color: #f8fafc;
+    --card-bg: #ffffff;
+    --primary: #0ea5e9;
+    --primary-dark: #0369a1;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --accent: #f1f5f9;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+#content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    text-align: left;
+    color: var(--text-main);
+    margin-bottom: 2rem;
+    letter-spacing: -0.025em;
+}
+
+/* 2. Tabella (Desktop) */
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 8px; /* Effetto righe staccate */
+    margin: 2rem 0;
+}
+
+th {
+    padding: 12px 16px;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+
+tr {
+    background-color: var(--card-bg);
+    transition: transform 0.2s ease;
+}
+
+td {
+    padding: 16px;
+    border-top: 1px solid #f1f5f9;
+    border-bottom: 1px solid #f1f5f9;
+}
+
+/* Arrotondamento angoli delle righe */
+td:first-child { border-left: 1px solid #f1f5f9; border-radius: 12px 0 0 12px; }
+td:last-child { border-right: 1px solid #f1f5f9; border-radius: 0 12px 12px 0; }
+
+tr:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+/* 3. Link e Bottoni */
+a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/* Trasformiamo il link Airbnb in un tasto */
+td a[href*="airbnb"] {
+    background-color: var(--primary);
+    color: white !important;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    display: inline-block;
+}
+
+/* 4. Lista Descrizioni */
+.org-ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 16px;
+}
+
+.org-ul li {
+    background: var(--card-bg);
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+}
+
+/* 5. OTTIMIZZAZIONE MOBILE */
+@media (max-width: 768px) {
+    .title { font-size: 1.8rem; text-align: center; }
+
+    table, thead, tbody, th, td, tr { display: block; }
+    thead { display: none; } /* Nascondi testata */
+
+    tr {
+        margin-bottom: 24px;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        border-radius: 12px;
+        border: 1px solid #e2e8f0;
+    }
+
+    td {
+        text-align: right;
+        padding: 12px 20px;
+        border: none;
+        border-bottom: 1px solid #f1f5f9;
+    }
+
+    td:last-child { border-bottom: none; }
+
+    /* Etichette per mobile */
+    td::before {
+        content: attr(data-label); /* Se aggiungi data-label nell'HTML, altrimenti usiamo il trucco nth-child */
+        float: left;
+        font-weight: 700;
+        color: var(--text-muted);
+        text-transform: uppercase;
+        font-size: 0.7rem;
+    }
+
+    /* Fallback etichette se non puoi modificare l'HTML */
+    td:nth-of-type(1)::before { content: "Opzione"; }
+    td:nth-of-type(2)::before { content: "Link"; }
+    td:nth-of-type(3)::before { content: "Periodo"; }
+    td:nth-of-type(4)::before { content: "Casa"; }
+    td:nth-of-type(5)::before { content: "Auto"; }
+    td:nth-of-type(6)::before { content: "Tot/Testa"; }
+}
+
+/* Footnotes e Postamble */
+#footnotes { font-size: 0.8rem; color: var(--text-muted); margin-top: 40px; }
+#postamble { text-align: center; padding: 20px; font-size: 0.75rem; color: var(--text-muted); }
