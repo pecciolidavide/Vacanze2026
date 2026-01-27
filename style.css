@@ -117,9 +117,10 @@ body {
     td:nth-of-type(1)::before { content: "Opzione"; }
     td:nth-of-type(2)::before { content: "Link"; }
     td:nth-of-type(3)::before { content: "Periodo"; }
-    td:nth-of-type(4)::before { content: "Casa"; }
-    td:nth-of-type(5)::before { content: "Auto"; }
+    td:nth-of-type(4)::before { content: "Tot Casa"; }
+    td:nth-of-type(5)::before { content: "Tot Auto"; }
     td:nth-of-type(6)::before { content: "Tot/Testa"; }
+    td:nth-of-type(7)::before { content: "Tot/Roby"; }
 
     /* Fix per il pulsante Airbnb su mobile */
     td a {
