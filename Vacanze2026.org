@@ -21,6 +21,7 @@
 | Opzione 9         | [[https://www.airbnb.it/rooms/1112805843348668137?check_in=2026-08-11&check_out=2026-08-20&guests=8&adults=8&s=67&unique_share_id=dc78bd64-2b3f-4e42-887f-f16efcf0c51f][AirBNB]] | 11-20 agosto |   1989€    |      55€       |     293€      |     159€      |
 | *Opzione 10*      | [[https://www.airbnb.it/rooms/916763023694174740?check_in=2026-08-11&check_out=2026-08-23&guests=1&adults=8&s=67&unique_share_id=9774e796-2948-4ddd-a441-7c314e8edfc8][AirBNB]] | 11-23 agosto |   1989€    |      93€       |     318€      |     139€      |
 | *Opzione 11*      | [[https://www.airbnb.it/rooms/54339739?check_in=2026-08-11&check_out=2026-08-23&guests=1&adults=8&s=67&unique_share_id=25d7fc54-f8be-4860-ac26-8cd2c2210a59][AirBNB]] | 11-23 agosto |   1727€    |      100€      |     286€      |     128€      |
+| Opzione 12        | [[https://www.airbnb.it/rooms/42674588?check_in=2026-08-11&check_out=2026-08-20&guests=1&adults=8&s=67&unique_share_id=60ca6b0c-efd3-4969-a2ec-4132c6f70064][AirBNB]] | 11-20 agosto |   1836€    |      122€      |     307€      |     173€      |
 |-------------------+--------+--------------+------------+----------------+---------------+---------------|
 
 # | Opzione 4       | [[https://www.airbnb.it/rooms/27943751?check_in=2026-08-11&check_out=2026-08-20&guests=8&adults=8&s=67&unique_share_id=68e86efd-8c80-46dd-be71-bbd8cb0198ea][AirBNB]] | 11-20 agosto |   1218€    |      35€       |     170€      |
@@ -42,6 +43,7 @@ Descrizioni:
 - *Opzione 9*: Villa con piscina privata vicino ad Avignone. (8 ore di macchina)
 - *Opzione 10*: Chalet nelle alpi francesi.
 - *Opzione 11*: Villa nelle alpi francesi.
+- *Opzione 12*: Villa con piscina in Umbria.
 
 * Calcolo costi Roberto
 
