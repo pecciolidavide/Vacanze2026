@@ -14,7 +14,49 @@
 
 Per il calcolo preciso dei costi, l'idea è la seguente: il costo a testa per notte deve essere lo stesso, mentre per la macchina si approssima solo nei due grandi viaggi (andata e ritorno), e si divide equamente.
 
-I casi specifici sono i seguenti (Alessia e Roberto passeranno, rispettivamente, 5 e 6 notti con noi):
+Ho diviso tre scenari possibili, viste le esigenze di Alessia e Roberto.
+
+** Alessia e Roberto passeranno 5 notti con noi
+
+Nello specifico:
+- *Alessia e Roberto* passano 5 notti in vacanza (partenza il 16 agosto), e viaggeranno in macchina solo per l'andata:
+  \begin{align*}
+	\text{Casa} &= \frac{1805\ \text{euro}}{(6 \cdot 9\ \text{notti}) + (2\cdot 5\ \text{notti})} \cdot (5\ \text{notti}) = 142 \ \text{euro}\\[2ex]
+	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 1 = 37\ \text{euro}
+  \end{align*}
+  Quindi spenderanno *179 euro*.
+- *Tutti gli altri* passano 9 notti in vacanza e fanno sia andata che ritorno:
+  \begin{align*}
+	\text{Casa} &= \frac{1805\ \text{euro}}{(6 \cdot 9\ \text{notti}) + (2\cdot 5\ \text{notti})} \cdot (9\ \text{notti}) = 254\ \text{euro}\\[2ex]
+	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 2 = 74\ \text{euro}
+  \end{align*}
+  Quindi spenderanno *328 euro* (+ 21 euro rispetto al preventivo precedente).
+
+** Alessia e Roberto passeranno, rispettivamente, 4 e 6 notti con noi.
+Nello specifico:
+- *Alessia* passa 4 notti in vacanza (partenza il 15 agosto), e viaggerà in macchina solo per l'andata:
+  \begin{align*}
+	\text{Casa} &= \frac{1805\ \text{euro}}{(6 \cdot 9\ \text{notti}) + (6\ \text{notti}) + (4\ \text{notti})} \cdot (4\ \text{notti}) =  112\ \text{euro}\\[2ex]
+	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 1 = 37\ \text{euro}
+  \end{align*}
+  Quindi spenderà *149 euro*.
+- *Roberto* passa 6 notti in vacanza (partenza il 17 agosto), e viaggerà in macchina solo per l'andata:
+  \begin{align*}
+	\text{Casa} &= \frac{1805\ \text{euro}}{(6 \cdot 9\ \text{notti}) + (6\ \text{notti}) + (4\ \text{notti})} \cdot (6\ \text{notti}) = 170\ \text{euro} \\[2ex]
+	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 1 = 37\ \text{euro}
+  \end{align*}
+  Quindi spenderà *207 euro*.
+- *Tutti gli altri* passano 9 notti in vacanza e fanno sia andata che ritorno:
+  \begin{align*}
+	\text{Casa} &= \frac{1805\ \text{euro}}{(6 \cdot 9\ \text{notti}) + (6\ \text{notti}) + (4\ \text{notti})} \cdot (9\ \text{notti}) = 254\ \text{euro}\\[2ex]
+	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 2 = 74\ \text{euro}
+  \end{align*}
+  Quindi spenderanno *328 euro* (+ 21 euro rispetto al preventivo precedente).
+
+
+
+** Alessia e Roberto passeranno, rispettivamente, 5 e 6 notti con noi.
+Nello specifico:
 - *Alessia* passa 5 notti in vacanza (partenza il 16 agosto), e viaggerà in macchina solo per l'andata:
   \begin{align*}
 	\text{Casa} &= \frac{1805\ \text{euro}}{(6 \cdot 9\ \text{notti}) + (6\ \text{notti}) + (5\ \text{notti})} \cdot (5\ \text{notti}) = 139 \ \text{euro}\\[2ex]
@@ -33,6 +75,22 @@ I casi specifici sono i seguenti (Alessia e Roberto passeranno, rispettivamente,
 	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 2 = 74\ \text{euro}
   \end{align*}
   Quindi spenderanno *324 euro* (+ 17 euro rispetto al preventivo precedente).
+
+** Alessia e Roberto passeranno 6 notti con noi
+
+Nello specifico:
+- *Alessia e Roberto* passano 6 notti in vacanza (partenza il 17 agosto), e viaggeranno in macchina solo per l'andata:
+  \begin{align*}
+	\text{Casa} &= \frac{1805\ \text{euro}}{(6 \cdot 9\ \text{notti}) + (2\cdot 6\ \text{notti})} \cdot (6\ \text{notti}) = 165 \ \text{euro}\\[2ex]
+	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 1 = 37\ \text{euro}
+  \end{align*}
+  Quindi spenderanno *202 euro*.
+- *Tutti gli altri* passano 9 notti in vacanza e fanno sia andata che ritorno:
+  \begin{align*}
+	\text{Casa} &= \frac{1805\ \text{euro}}{(6 \cdot 9\ \text{notti}) + (2\cdot 6\ \text{notti})} \cdot (9\ \text{notti}) = 246\ \text{euro}\\[2ex]
+	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 2 = 74\ \text{euro}
+  \end{align*}
+  Quindi spenderanno *320 euro* (+ 13 euro rispetto al preventivo precedente).
 
 * Idee Vacanze :noexport:
 
@@ -98,7 +156,6 @@ P &= \text{numero di persone}
 
 - Robert spende: \(\frac{3}{P} T\);
 - Tutti gli altri: \(\frac{3}{P} T + \frac{1}{P-1} T\).
-
 
 * Partecipanti :noexport:
 
