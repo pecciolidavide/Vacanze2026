@@ -1,0 +1,18 @@
+#+title: Vacanze "Ultimo Cena"
+#+author: Davide Peccioli
+#+date: 11-20 agosto 2026
+
+#+startup: beamer
+#+LaTeX_CLASS: beamer
+#+BEAMER_THEME: Madrid
+#+OPTIONS: toc:nil
+
+#+LATEX_CLASS_OPTIONS: [8pt]
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[italian]{babel}
+#+LATEX_HEADER: \usefonttheme{professionalfonts}
+#+LATEX_HEADER: \usepackage{eurosym}
+#+LATEX_HEADER: \DeclareUnicodeCharacter{20AC}{\euro}
+
+#+INCLUDE: "../Vacanze2026.org::#slides" :only-contents t
