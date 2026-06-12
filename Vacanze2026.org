@@ -5,7 +5,7 @@
 #+OPTIONS: html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css?v=1.1" />
 
-* Opzione 8 - Sainte-Blandine, Francia.
+* Sainte-Blandine, Francia.
 :PROPERTIES:
 :CUSTOM_ID: slides
 :END:
