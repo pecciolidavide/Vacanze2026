@@ -35,8 +35,7 @@ Nello specifico:
 	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 2 = 74\ \text{euro}
   \end{align*}
   Quindi spenderanno *328 euro* (+ 21 euro rispetto al preventivo "di base").
-
-** COMMENT Alessia e Roberto passeranno, rispettivamente, 4 e 6 notti con noi.
+*** COMMENT Alessia e Roberto passeranno, rispettivamente, 4 e 6 notti con noi.
 Nello specifico:
 - *Alessia* passa 4 notti in vacanza (partenza il 15 agosto), e viaggerà in macchina solo per l'andata:
   \begin{align*}
@@ -57,7 +56,7 @@ Nello specifico:
   \end{align*}
   Quindi spenderanno *328 euro* (+ 21 euro rispetto al preventivo precedente).
 
-** COMMENT Alessia e Roberto passeranno, rispettivamente, 5 e 6 notti con noi.
+*** COMMENT Alessia e Roberto passeranno, rispettivamente, 5 e 6 notti con noi.
 Nello specifico:
 - *Alessia* passa 5 notti in vacanza (partenza il 16 agosto), e viaggerà in macchina solo per l'andata:
   \begin{align*}
@@ -78,7 +77,7 @@ Nello specifico:
   \end{align*}
   Quindi spenderanno *324 euro* (+ 17 euro rispetto al preventivo precedente).
 
-** COMMENT Alessia e Roberto passeranno 6 notti con noi
+*** COMMENT Alessia e Roberto passeranno 6 notti con noi
 
 Nello specifico:
 - *Alessia e Roberto* passano 6 notti in vacanza (partenza il 17 agosto), e viaggeranno in macchina solo per l'andata:
@@ -93,6 +92,12 @@ Nello specifico:
 	\text{Macchina} &= \frac{4\cdot 128\ \text{euro}}{8 + 6} \cdot 2 = 74\ \text{euro}
   \end{align*}
   Quindi spenderanno *320 euro* (+ 13 euro rispetto al preventivo precedente).
+
+** Tragitto
+
+[[https://maps.app.goo.gl/4DSTrVWa3Q8CdvFd6][Tragitto per Monginevro (4 ore e 58 minuti)]]
+
+[[https://maps.app.goo.gl/kd1qjc5XCRBrMnxw8][Tragitto per Moncenisio (3 ore e 54 minuti)]]
 
 * Idee Vacanze :noexport:
 
