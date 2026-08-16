@@ -10,24 +10,6 @@
 :CUSTOM_ID: slides
 :END:
 
-** Programma giornaliero
-*** 13 agosto 2026
-
-- *Pranzo*: Bistecche + Verdure
-- *Pomeriggio*: Visita alle /Cuves de La Balme/ ([[https://maps.app.goo.gl/fwubZaUrDtYwAUR68][MAPS]])
-- *Cena*: Pasta al pesto + Caprese
-
-*** 14 agosto 2026
-
-Gita tutto il giorno (lago o parco naturale)
-
-- *Pranzo*: AL SACCO, Pasta Fredda
-- *Cena*: Fuori
-
-*** 15 agosto 2026
-
-- *Cena*: Grigliata + Tiramisù
-
 ** Introduzione
 
 - [[https://www.airbnb.it/rooms/1243277132509758895?guests=8&adults=8&s=67&unique_share_id=aba1fee1-90d0-4b31-bbef-b2b30f9853b1][Link AirBNB]]
@@ -37,6 +19,56 @@ Gita tutto il giorno (lago o parco naturale)
 - Costo macchina: 128 € (/prezzo stimato solo andata, per ogni macchina/).
 
 Per il calcolo preciso dei costi, l'idea è la seguente: il costo a testa per notte deve essere lo stesso, mentre per la macchina si approssima solo nei due grandi viaggi (andata e ritorno), e si divide equamente.
+** Programma giornaliero
+*** 13 agosto 2026
+
+- *Pranzo*: Bistecche + Verdure
+- *Pomeriggio*: Visita alle /Cuves de La Balme/ ([[https://maps.app.goo.gl/fwubZaUrDtYwAUR68][MAPS]])
+- *Cena*: Pasta al pesto + Caprese
+
+*** 14 agosto 2026
+
+- *Pranzo*: Pasta Fredda
+- *Cena*: Fuori a Lyon
+
+*** 15 agosto 2026
+
+- *Pranzo*: Pasta con i pomodorini + insalata
+- *Cena*: Grigliata + Tiramisù
+
+*** 16 agosto 2026
+
+Giornata a Grenoble
+
+- *Pranzo*: Hamburger + Patatine
+- *Cena*: Tortellini in brodo
+
+*** 17 agosto 2026
+
+- Mattina: /Spesa/
+- *Pranzo*: Polpette al sugo con il pane
+- Pomeriggio: /Arrampicata/
+- *Cena*: Penne panna e salmone
+
+*** 18 agosto 2026
+
+Giornata al lago
+
+- *Pranzo*: Quiche Lorrain (AL SACCO)
+- *Cena*: Fettine di Mucca con i Peperoni
+
+*** 19 agosto 2026
+
+- *Pranzo*: Pasta al ragù di salsiccia
+- *Cena*: Uova con piselli e prosciutto
+
+*** 20 agosto 2026
+
+Partenza entro le ore 11:00
+
+- *Pranzo*: Fuori, sul Moncenisio
+
+
 ** Alessia e Roberto partiranno il 16 agosto
 
 Nello specifico:
